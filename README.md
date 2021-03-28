@@ -8,7 +8,7 @@
 
 - [ci/cd](https://github.com/CallMeCody/caps/actions) (GitHub Actions)
 - [HEROKU APP]()
-- [Pull Request]()
+- [Pull Request](https://github.com/CallMeCody/caps/pull/1)
 
 ### Setup
 
